@@ -87,3 +87,6 @@ Multiple-Digit Numbers: The program can handle multi-digit numbers, not just sin
 
 Conclusion
 The C++ program demonstrates how to evaluate mathematical expressions by simulating the traditional manual approach of operator precedence using two stacks. The use of stacks ensures that operations are applied in the correct order and allows the program to handle complex expressions, including those with parentheses and various operators. This approach follows a classic shunting yard algorithm (or Dijkstra's algorithm) for parsing expressions.
+
+#output
+![Image](https://github.com/user-attachments/assets/8e58e6e4-79a2-4098-92e0-12b326870ec6)
